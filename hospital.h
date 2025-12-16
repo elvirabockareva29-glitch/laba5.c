@@ -1,4 +1,3 @@
-//заголовочный файл, описывает структуру patient - данные о пациенте, структура SmartArray - умный массив, содержит объвление функций,которые используются в hospital.c and main.c
 #ifndef HOSPITAL_H
 #define HOSPITAL_H
 
