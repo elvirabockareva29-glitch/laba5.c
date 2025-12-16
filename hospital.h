@@ -2,10 +2,14 @@
 #ifndef HOSPITAL_H
 #define HOSPITAL_H
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 typedef struct {
-    char name[50];
+    char name[30];
     int age;
-    char diagnosis[50];
+    char diagnosis[30];
 } Patient;
 
 typedef struct {
